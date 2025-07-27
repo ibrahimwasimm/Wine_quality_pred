@@ -46,31 +46,26 @@ Even though the R² scores aren’t super high, they’re decent considering the
 
 ## 📈 Process Overview
 
-1. **Data Exploration**  
+ **Data Exploration**  
    - Checked for null values  
    - Looked at distributions and correlations between features  
    - Explored how each chemical property affects wine quality
 
-2. **Preprocessing**  
+ **Preprocessing**  
    - Normalized features  
    - Split data into training and test sets
 
-3. **Modeling**  
+ **Modeling**  
    - Built and trained multiple models  
    - Tuned Random Forest parameters manually  
    - Compared model performance using R² score
 
-4. **Evaluation**  
+ **Evaluation**  
    - Plotted prediction results  
    - Visualized feature importance (in Random Forest)
 
 ---
 
-## 📝 What I Learned
-
-- Wine quality is subjective and not easy to predict just from chemical features.
-- Random Forests handle small feature sets and nonlinear relationships really well.
-- Simple models like linear regression are a good baseline but not always enough.
 
 
 
